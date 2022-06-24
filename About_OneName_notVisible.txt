@@ -1,0 +1,7 @@
+Dear sir/madam,
+
+One of our group member name is not visible in the contributors list. We don't know what was the reason. We tried to find a solution for that. But its not successed. 
+We all group members can see that member's name in the contribution list. But cannot see through public. 
+But that member also involed during the commiting process. Her commits also visible in commit history.
+
+Member RegNo: IT20001452
